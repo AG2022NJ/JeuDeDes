@@ -1,0 +1,15 @@
+
+
+button {
+    color: black;
+    width: 50%;
+    max-width: 600px;
+    font-size: 40px;
+    margin: 50px;
+    padding: 0.5em;
+}
+body {
+    background-color:beige;
+    background-size: cover;
+    text-align: center;
+}
