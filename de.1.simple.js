@@ -1,4 +1,8 @@
 'use strict'
+//Blibliothéque jQuery
+$(function(){
+  alert('JQuerry est bien chargé !')
+})
 
 //Fonction qui génère un nombre aléatoire
 //Retourne le nombre
